@@ -1,0 +1,7 @@
+{
+  "name": "Home Assistant Battery Manager",
+  "description": "Eine Inventar-App spezialisiert auf Home Assistant Nutzer zur Verwaltung von Batterien in Smart-Home-Geräten. Mit KI-gestützter Erkennung.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
